@@ -1,0 +1,56 @@
+from cmath import pi
+import matplotlib.pyplot as plt
+import numpy as np
+
+def sigma(b, y, x):
+    y1 = np.mean(y*y)
+    y2 = np.mean(y)**2
+    x1 = np.mean(x*x)
+    x2 = np.mean(y)**2
+    bs = (np.sqrt(abs(((y1 - y2)/(x1 - x2)) - b**2)))/np.sqrt(len(y))
+    return bs
+
+dh = np.loadtxt("dh.txt", dtype = float)
+
+ts = np.loadtxt("ts.txt", dtype = float)
+
+dp = dh * 136 * 9.8
+
+plf = np.polyfit(ts, dp, 2)
+y = np.polyval(plf, ts)
+
+plt.subplots(figsize = (8, 6), dpi = 400)
+plt.plot(ts, y)
+plt.scatter(ts, dp)
+plt.title(f"График (P(T))")
+plt.ylabel("Давление, Па")
+plt.xlabel("Температура, град. Цельсия")
+plt.legend()
+plt.grid(b=True, which='major', color='grey', linestyle='-')
+plt.grid(b=True, which='minor', color='grey', linestyle='--')
+plt.minorticks_on()
+plt.savefig("p(t).png")
+
+lnp = np.log(dp)
+invt = 1/(ts+273)
+
+plf = np.polyfit(invt, lnp, 1)
+y = np.polyval(plf, invt)
+
+print(f"sigma = {sigma(plf[1], lnp, invt):.3f}")
+
+np.savetxt("k.txt", plf)
+
+plt.subplots(figsize = (8, 6), dpi = 400)
+plt.plot(invt, y, label = f"k = {plf[0]:.2f}")
+plt.scatter(invt, lnp)
+plt.title(f"График (ln(P)(1/T)")
+plt.ylabel("ln(P)")
+plt.xlabel("1/T, 1/К")
+plt.legend()
+plt.grid(b=True, which='major', color='grey', linestyle='-')
+plt.grid(b=True, which='minor', color='grey', linestyle='--')
+plt.minorticks_on()
+plt.savefig("lnp(1t).png")
+
+print(-8.31*plf[0])
