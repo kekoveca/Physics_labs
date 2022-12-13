@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  29 NOV 2022 23:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  7 DEC 2022 01:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -491,56 +491,115 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 [1
 
 {C:/Users/Alex/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 51.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 50.
  (C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
 File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 51.
+(Font)              using `OML/cmr/m/it' instead on input line 50.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 51.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 50.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 51.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 50.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 51.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 51.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 50.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 50.
 (C:\Users\Alex\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 51.
+(Font)              using `OMS/cmr/m/n' instead on input line 50.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
 <set.jpg, id=11, 1062.97125pt x 1182.4175pt>
 File: set.jpg Graphic file (type jpg)
 <use set.jpg>
-Package pdftex.def Info: set.jpg  used on input line 59.
+Package pdftex.def Info: set.jpg  used on input line 57.
 (pdftex.def)             Requested size: 338.58632pt x 376.63124pt.
-[1 <./set.jpg>] [2] (lab331.aux)
+[1 <./set.jpg>]
+<calib.png, id=20, 578.16pt x 433.62pt>
+File: calib.png Graphic file (type png)
+<use calib.png>
+Package pdftex.def Info: calib.png  used on input line 123.
+(pdftex.def)             Requested size: 483.69687pt x 362.76945pt.
+ [2]
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 145.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 145.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 145.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 145.
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 148.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 148.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 151.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 151.
+
+<focus.png, id=29, 578.16pt x 433.62pt>
+File: focus.png Graphic file (type png)
+<use focus.png>
+Package pdftex.def Info: focus.png  used on input line 155.
+(pdftex.def)             Requested size: 483.69687pt x 362.76945pt.
+[3 <./calib.png>] [4 <./focus.png>]
+<set1.jpg, id=42, 1927.2pt x 1123.19624pt>
+File: set1.jpg Graphic file (type jpg)
+<use set1.jpg>
+Package pdftex.def Info: set1.jpg  used on input line 170.
+(pdftex.def)             Requested size: 338.58632pt x 197.31638pt.
+ [5 <./set1.jpg>] [6]
+<magnetron.png, id=53, 578.16pt x 433.62pt>
+File: magnetron.png Graphic file (type png)
+<use magnetron.png>
+Package pdftex.def Info: magnetron.png  used on input line 235.
+(pdftex.def)             Requested size: 483.69687pt x 362.76945pt.
+ [7 <./magnetron.png>]
+<magnetron_last.png, id=59, 578.16pt x 433.62pt>
+File: magnetron_last.png Graphic file (type png)
+<use magnetron_last.png>
+Package pdftex.def Info: magnetron_last.png  used on input line 246.
+(pdftex.def)             Requested size: 483.69687pt x 362.76945pt.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 251.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 251.
+
+[8 <./magnetron_last.png>] (lab331.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4703 strings out of 475285
- 73502 string characters out of 2774591
- 446691 words of memory out of 3000000
- 26108 multiletter control sequences out of 15000+600000
- 484267 words of font info for 55 fonts, out of 8000000 for 9000
+ 4770 strings out of 475285
+ 74418 string characters out of 2774591
+ 448771 words of memory out of 3000000
+ 26162 multiletter control sequences out of 15000+600000
+ 487036 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,13n,62p,952b,244s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc2074.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on lab331.pdf (3 pages, 292731 bytes).
+ 55i,13n,62p,1476b,268s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc2074.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on lab331.pdf (9 pages, 1224423 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
+ 392 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
