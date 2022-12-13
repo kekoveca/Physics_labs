@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  7 DEC 2022 02:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  14 DEC 2022 00:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -524,38 +524,65 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 69.
-
-<calibration.png, id=12, 462.528pt x 346.896pt>
+[1 <./set.jpg>]
+<calibration.png, id=23, 462.528pt x 346.896pt>
 File: calibration.png Graphic file (type png)
 <use calibration.png>
-Package pdftex.def Info: calibration.png  used on input line 87.
+Package pdftex.def Info: calibration.png  used on input line 109.
 (pdftex.def)             Requested size: 483.69687pt x 362.79062pt.
-[1 <./set.jpg>] [2 <./calibration.png>]
-<B2.png, id=30, 462.528pt x 346.896pt>
+ [2] [3 <./calibration.png>]
+<B2.png, id=36, 462.528pt x 346.896pt>
 File: B2.png Graphic file (type png)
 <use B2.png>
-Package pdftex.def Info: B2.png  used on input line 141.
+Package pdftex.def Info: B2.png  used on input line 160.
 (pdftex.def)             Requested size: 483.69687pt x 362.79062pt.
- [3] [4 <./B2.png>] (lab336.aux)
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 166.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 166.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 166.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 166.
+[4 <./B2.png>]
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 179.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 179.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 182.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 182.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 186.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 186.
+
+[5] (lab336.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4710 strings out of 475285
- 73613 string characters out of 2774591
- 444715 words of memory out of 3000000
- 26115 multiletter control sequences out of 15000+600000
- 482661 words of font info for 53 fonts, out of 8000000 for 9000
+ 4736 strings out of 475285
+ 73866 string characters out of 2774591
+ 442747 words of memory out of 3000000
+ 26130 multiletter control sequences out of 15000+600000
+ 487036 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,841b,279s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc2074.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on lab336.pdf (5 pages, 671139 bytes).
+ 55i,13n,62p,841b,279s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc2074.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on lab336.pdf (6 pages, 763358 bytes).
 PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
+ 371 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
