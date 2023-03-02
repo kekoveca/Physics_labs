@@ -4,6 +4,7 @@
 \usepackage[warn]{mathtext}
 \usepackage{graphicx}
 \usepackage{float}
+\usepackage{multirow}
 \restylefloat{table}
 \usepackage{amsmath}
 \usepackage{floatflt}
@@ -174,7 +175,131 @@ d \sin \varphi=m(\lambda+\Delta \lambda)=(m+1) \lambda,
 
 Описанный метод позволяет измерить так называемую аппаратную или прибориую разрешаюпцую силу в реальных условиях опыта (т.е. при данных решётках, заданных размерах входной щели коллиматора, данном увеличении зрительной трубы и т.д.). Сравнение полученного результата с теоретическим (предельным) значением разрешающей силы позволяет оценить качество спектральной установки.
 \section{Обработка результатов}
+В ходе обработки выяснилось, что фиолетовый и два красных спектра были зафиксированы ошибочно. Отбросим их из данных.
+Для +-1 порядка посмотрим на углы дифракции:
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|cccc|}
+	\hline
+	\multicolumn{4}{|c|}{\textbf{Ноль шкалы 180 14'43''}}                                                                                                                       \\ \hline
+	\multicolumn{1}{|c|}{}                 & \multicolumn{1}{c|}{\textbf{$\lambda$, нм}} & \multicolumn{1}{c|}{\textbf{Угол, град. мин. сек.}} & \textbf{Угол, град. мин. сек.} \\ \hline
+	\multicolumn{1}{|c|}{\textbf{Синий}}   & \multicolumn{1}{c|}{404,7}                  & \multicolumn{1}{c|}{192 01 11}                      & 168 10 17                      \\ \hline
+	\multicolumn{1}{|c|}{\textbf{Голубой}} & \multicolumn{1}{c|}{491,6}                  & \multicolumn{1}{c|}{194 32 54}                      & 165 49 10                      \\ \hline
+	\multicolumn{1}{|c|}{\textbf{Зелёный}} & \multicolumn{1}{c|}{546,1}                  & \multicolumn{1}{c|}{196 01 37}                      & 164 19 34                      \\ \hline
+	\multicolumn{1}{|c|}{\textbf{Желтый}}  & \multicolumn{1}{c|}{577}                    & \multicolumn{1}{c|}{196 56 40}                      & 163 23 46                      \\ \hline
+	\multicolumn{1}{|c|}{\textbf{Желтый}}  & \multicolumn{1}{c|}{579,1}                  & \multicolumn{1}{c|}{197 00 18}                      & 163 20 06                      \\ \hline
+	\end{tabular}
+	\caption{Данные об углах дифракции}
+	\label{tab:data_1}
+\end{table}
+
+Вычтем из полученных углов ноль шкалы, переведем градусы в радианы, посчитаем синусы и занесем всё в таблицу:
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|c|c|c|}
+	\hline
+					 & \textbf{$\lambda$, нм} & \textbf{$\sin \varphi_1$} & \textbf{$\sin \varphi_{-1}$} \\ \hline
+	\textbf{Синий}   & 404,7                  & 0,204                      & -0,209                        \\ \hline
+	\textbf{Голубой} & 491,6                  & 0,247                      & -0,249                        \\ \hline
+	\textbf{Зелёный} & 546,1                  & 0,272                      & -0,274                        \\ \hline
+	\textbf{Желтый}  & 577                    & 0,287                      & -0,290                        \\ \hline
+	\textbf{Желтый}  & 579,1                  & 0,288                      & -0,291                        \\ \hline
+	\end{tabular}
+	\caption{Синусы углов}
+	\label{tab:data_2}
+\end{table}
+
+Построим графики зависимости $\sin \varphi_{\pm 1} = \pm \frac{1}{d} \lambda$. Угол наклона даст обратное значение для периода решетки:
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{plot1.png}
+    \caption{Графики для синусов углов дифракции}
+    \label{fig:plot1}
+\end{figure}
+
+Итого, проведя все расчеты, имеем
+
+\begin{equation*}
+	\boldmath{d = (2,1 \pm 0,2) \text{ мкм}} 
+\end{equation*}
+\begin{equation*}
+	\boldmath{d_{\text{теор.}} = 2 \text{ мкм}}
+\end{equation*}
+
+Для расчёта угловой дисперсии приведем данные для желтых пар разных порядков:
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|cccc|}
+	\hline
+	\multicolumn{4}{|c|}{\textbf{Пары желтых   спектров}}                                                               \\ \hline
+	\multicolumn{1}{|c|}{m}  & \multicolumn{1}{c|}{Угол}      & \multicolumn{1}{c|}{Угол, сек} & Угол, $\Delta$ сек     \\ \hline
+	\multicolumn{1}{|c|}{1}  & \multicolumn{1}{c|}{196 56 24} & \multicolumn{1}{c|}{708984}    & \multirow{2}{*}{231}   \\ \cline{1-3}
+	\multicolumn{1}{|c|}{1}  & \multicolumn{1}{c|}{197 00 15} & \multicolumn{1}{c|}{709215}    &                        \\ \hline
+	\multicolumn{1}{|c|}{2}  & \multicolumn{1}{c|}{215 11 51} & \multicolumn{1}{c|}{774711}    & \multirow{2}{*}{495}   \\ \cline{1-3}
+	\multicolumn{1}{|c|}{2}  & \multicolumn{1}{c|}{215 20 06} & \multicolumn{1}{c|}{775206}    &                        \\ \hline
+	\multicolumn{1}{|c|}{3}  & \multicolumn{1}{c|}{239 00 06} & \multicolumn{1}{c|}{860406}    & \multirow{2}{*}{1177}  \\ \cline{1-3}
+	\multicolumn{1}{|c|}{3}  & \multicolumn{1}{c|}{239 19 43} & \multicolumn{1}{c|}{861583}    &                        \\ \hline
+	\multicolumn{1}{|c|}{-1} & \multicolumn{1}{c|}{163 23 46} & \multicolumn{1}{c|}{588226}    & \multirow{2}{*}{-220}  \\ \cline{1-3}
+	\multicolumn{1}{|c|}{-1} & \multicolumn{1}{c|}{163 20 06} & \multicolumn{1}{c|}{588006}    &                        \\ \hline
+	\multicolumn{1}{|c|}{-2} & \multicolumn{1}{c|}{144 42 41} & \multicolumn{1}{c|}{520961}    & \multirow{2}{*}{-523}  \\ \cline{1-3}
+	\multicolumn{1}{|c|}{-2} & \multicolumn{1}{c|}{144 33 58} & \multicolumn{1}{c|}{520438}    &                        \\ \hline
+	\multicolumn{1}{|c|}{-3} & \multicolumn{1}{c|}{118 57 40} & \multicolumn{1}{c|}{428260}    & \multirow{2}{*}{-1429} \\ \cline{1-3}
+	\multicolumn{1}{|c|}{-3} & \multicolumn{1}{c|}{118 33 51} & \multicolumn{1}{c|}{426831}    &                        \\ \hline
+	\end{tabular}
+	\caption{Данные для желтых спектров}
+	\label{tab:data_3}
+\end{table}
+
+Зная, что $\Delta\lambda$ для желтой пары 2,1 нм или 21 \r{A}, посчитаем $d\varphi/d\lambda$ и построим графики:
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|c|}
+	\hline
+	\textbf{m} & \textbf{D, сек/Ангстрем} \\ \hline
+	1          & 11,00                    \\ \hline
+	2          & 23,57                    \\ \hline
+	3          & 56,05                    \\ \hline
+	-1         & -10,48                   \\ \hline
+	-2         & -24,90                   \\ \hline
+	-3         & -68,05                   \\ \hline
+	\end{tabular}
+	\caption{Угловые дисперсии}
+	\label{tab:data_4}
+\end{table}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{plot2.png}
+    \caption{Графики для угловых дисперсий}
+    \label{fig:plot2}
+\end{figure}
+
+Как можно видеть, дисперсия возрастает с увеличение порядка спектра.
+
+Оценим разрешающую способность R и число эффективно работающих штрихов N, а так же эффективный размер l:
+
+\begin{equation*}
+	R \approx \frac{\varphi}{\Delta\varphi} \approx \frac{60332}{231} \approx 261
+\end{equation*}
+
+\begin{equation*}
+	R_{\lambda} \approx \frac{\lambda}{\Delta\lambda} \approx \approx \frac{577}{2,1} \approx 274
+\end{equation*}
+
+\begin{equation*}
+	N \approx \frac{R}{m} \approx 261
+\end{equation*}
+
+\begin{equation*}
+	l \approx Nd \approx 0,5 \text{ мм}
+\end{equation*}
 
 \section{Выводы}
-
+В работе были исследованы спектральные линии ртути, определен шаг решетки, угловая дисперсия и эффективный размер.
+Период решетки d сошелся с реальным в пределах погрешности.
 \end{document}
