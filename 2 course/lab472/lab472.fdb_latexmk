@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1680217686 "c:/Users/Alex/Documents/Physics_labs/2 course/lab472/lab472.tex" "lab472.pdf" "lab472" 1680217687
+["pdflatex"] 1680217860 "c:/Users/Alex/Documents/Physics_labs/2 course/lab472/lab472.tex" "lab472.pdf" "lab472" 1680217861
   "C:/Users/Alex/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1677794916 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Alex/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1669065346 14064 d47a5daa4cf9193426e40e1e27e671ff ""
   "C:/Users/Alex/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1669065344 29472 40f9cb262026f75ef823856649ae923f ""
@@ -86,9 +86,12 @@
   "C:/Users/Alex/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1666810012 30426 f2fb69fcda4dc35ed0b7dee211bce679 ""
   "C:/Users/Alex/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1615976118 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "C:/Users/Alex/AppData/Local/Programs/MiKTeX/tex/latex/t2/mathtext.sty" 1526043347 4781 c11ccf7b5677a4d3e903e0216d33e6f6 ""
-  "c:/Users/Alex/Documents/Physics_labs/2 course/lab472/lab472.tex" 1680217623 18497 fb9d11f37422f79a87813c11aff77984 ""
-  "lab472.aux" 1680217687 625 6896456219d25182dde65394b53a0d41 "pdflatex"
-  "lab472.tex" 1680217623 18497 fb9d11f37422f79a87813c11aff77984 ""
+  "c:/Users/Alex/Documents/Physics_labs/2 course/lab472/lab472.tex" 1680217858 19037 ddb1e80e0d32ee524ec91da499e3869f ""
+  "lab472.aux" 1680217861 1148 b2db261a4ded925bd553101b8aba4850 "pdflatex"
+  "lab472.tex" 1680217858 19037 ddb1e80e0d32ee524ec91da499e3869f ""
+  "ris1.jpg" 1680217632 73646 1fe12d0a93ca1f890fdd218e5306d3af ""
+  "ris2.jpg" 1680217632 20473 00a7a41d22db42d4970b0ba5ac64084c ""
+  "ris3.jpg" 1680217632 78336 7de78416688dbc4ad01ad95420a6216c ""
   (generated)
   "lab472.aux"
   "lab472.log"
