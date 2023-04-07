@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  24 MAR 2023 01:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  6 APR 2023 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -568,25 +568,35 @@ Package pdftex.def Info: razresh.jpg  used on input line 144.
 <Fraunhofer.png, id=43, 581.7735pt x 430.60875pt>
 File: Fraunhofer.png Graphic file (type png)
 <use Fraunhofer.png>
-Package pdftex.def Info: Fraunhofer.png  used on input line 237.
-(pdftex.def)             Requested size: 483.69687pt x 358.02936pt.
- [6 <./Fraunhofer.png>] [7] [8] (lab431.aux)
+Package pdftex.def Info: Fraunhofer.png  used on input line 236.
+(pdftex.def)             Requested size: 523.59131pt x 387.54428pt.
+
+Overfull \hbox (39.89444pt too wide) in paragraph at lines 236--237
+[][] 
+ []
+
+[6] [7 <./Fraunhofer.png>]
+Overfull \hbox (28.75568pt too wide) in paragraph at lines 319--327
+[][] 
+ []
+
+[8] (lab431.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5328 strings out of 475285
- 81672 string characters out of 2774591
- 447790 words of memory out of 3000000
- 26707 multiletter control sequences out of 15000+600000
+ 5327 strings out of 475285
+ 81661 string characters out of 2774591
+ 448782 words of memory out of 3000000
+ 26706 multiletter control sequences out of 15000+600000
  485502 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,13n,62p,1754b,281s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,14n,62p,1754b,343s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc2074.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on lab431.pdf (9 pages, 709939 bytes).
+Output written on lab431.pdf (9 pages, 712213 bytes).
 PDF statistics:
- 357 PDF objects out of 1000 (max. 8388607)
+ 356 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

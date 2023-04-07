@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  31 MAR 2023 02:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  7 APR 2023 03:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -568,23 +568,87 @@ File: ris3.jpg Graphic file (type jpg)
 <use ris3.jpg>
 Package pdftex.def Info: ris3.jpg  used on input line 129.
 (pdftex.def)             Requested size: 483.69687pt x 238.48236pt.
- [4 <./ris2.jpg> <./ris3.jpg>] [5] (lab472.aux)
+ [4 <./ris2.jpg> <./ris3.jpg>]
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 143.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 143.
+
+Missing character: There is no ñ in font cmr12!
+Missing character: There is no ì in font cmr12!
+<plot1.png, id=37, 867.24pt x 578.16pt>
+File: plot1.png Graphic file (type png)
+<use plot1.png>
+Package pdftex.def Info: plot1.png  used on input line 158.
+(pdftex.def)             Requested size: 483.69687pt x 322.47055pt.
+[5 <./plot1.png>]
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 178.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 178.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 178.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 178.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 178.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 178.
+
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 178.
+
+Missing character: There is no ä in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no ë in font cmr12!
+Missing character: There is no ä in font cmr12!
+Missing character: There is no å in font cmr12!
+Missing character: There is no ë in font cmr12!
+Missing character: There is no Â in font cmr12!
+<p1.jpg, id=44, 1284.8pt x 1106.1325pt>
+File: p1.jpg Graphic file (type jpg)
+<use p1.jpg>
+Package pdftex.def Info: p1.jpg  used on input line 184.
+(pdftex.def)             Requested size: 386.95897pt x 333.14194pt.
+<p2.jpg, id=45, 1284.8pt x 984.67876pt>
+File: p2.jpg Graphic file (type jpg)
+<use p2.jpg>
+Package pdftex.def Info: p2.jpg  used on input line 191.
+(pdftex.def)             Requested size: 386.95897pt x 296.56282pt.
+[6 <./p1.jpg>]
+<i1.jpg, id=50, 1284.8pt x 979.66pt>
+File: i1.jpg Graphic file (type jpg)
+<use i1.jpg>
+Package pdftex.def Info: i1.jpg  used on input line 198.
+(pdftex.def)             Requested size: 386.95897pt x 295.0513pt.
+<i2.jpg, id=51, 1284.8pt x 1079.03125pt>
+File: i2.jpg Graphic file (type jpg)
+<use i2.jpg>
+Package pdftex.def Info: i2.jpg  used on input line 205.
+(pdftex.def)             Requested size: 386.95897pt x 324.97966pt.
+ [7 <./p2.jpg> <./i1.jpg>] [8 <./i2.jpg>] (lab472.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4786 strings out of 475285
- 75051 string characters out of 2774591
- 446249 words of memory out of 3000000
- 26188 multiletter control sequences out of 15000+600000
- 483449 words of font info for 54 fonts, out of 8000000 for 9000
+ 4852 strings out of 475285
+ 75795 string characters out of 2774591
+ 446297 words of memory out of 3000000
+ 26252 multiletter control sequences out of 15000+600000
+ 484267 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,2618b,242s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc2074.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab472.pdf (6 pages, 349668 bytes).
+ 55i,9n,62p,2618b,242s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc2074.pk><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on lab472.pdf (9 pages, 1708876 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
+ 347 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
