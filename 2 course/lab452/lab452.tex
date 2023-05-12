@@ -119,11 +119,6 @@ $$
 \begin{equation}
 l_{1/2} = \dfrac{c}{\pi \Delta F}\sqrt{\ln 2} \approx \dfrac{0.26 c}{\Delta F}.
 \end{equation}
-Последняя функция $\gamma_3$ отвечает за разность в поляризации. Если $\alpha$ -- угол между плоскостями поляризаций волн, то
-\begin{equation}
-\gamma_3 = |\cos \alpha|.
-\end{equation}
-
 \section{Ход работы и обработка}
 
 По картине на экране осциллографа можно определить параметры видимости по следующим формулам:
@@ -170,12 +165,18 @@ l_{1/2} = \dfrac{c}{\pi \Delta F}\sqrt{\ln 2} \approx \dfrac{0.26 c}{\Delta F}.
 	\caption{Данные}
 	\label{tab:data}
 \end{table}
-Построим по этим данным график $\gamma_3(\alpha)$ и убедимся, что зависимость действительно от косинуса:
+Построим по этим данным график $\gamma_3(\alpha)$. Видно, что при аппроксимации квадратом получаем зависимость от $\cos 2\alpha$ или же $\cos^2 \alpha$, что ожидаемо
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.85\textwidth]{plot4--5--2-3.png}
     \label{fig:plot1}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.85\textwidth]{plot4--5--2-1.png}
+    \label{fig:plot3}
 \end{figure}
 Исследуем зависимость видности от разности хода. Для этого установим поляроид П1 в положение, в котором картина видна наиболее четко. Снимем зависимость h1, h2, h3, h4 от координаты блока Б2.
 Занесем результаты в таблицу.
@@ -223,14 +224,24 @@ l_{1/2} = \dfrac{c}{\pi \Delta F}\sqrt{\ln 2} \approx \dfrac{0.26 c}{\Delta F}.
 \end{figure}
 По расстоянию между максимумами оценим расстояние L между зеркалами:
 \begin{equation*}
-	L = \frac{\Delta x}{2} = \frac{80 - 22}{2} \text{ см} = 29 \text{ см}
+	L = \frac{\Delta x}{2} = \frac{80 - 22}{2} \text{ см} = (29 \pm 1,4) \text{ см}
 \end{equation*}
 Тогда
 \begin{equation*}
-	\Delta \nu = \frac{c}{2L} = 0,52 \text{ ГГц}
+	\Delta \nu = \frac{c}{2L} = (5 \pm 2) \cdot 10^8 \text{ Гц}
 \end{equation*}
-Так же можем найти
+Так же можем найти $l_{1/2} = 10 \pm 2 \text{ см}$
+
 \begin{equation*}
-	\Delta F = \frac{0.26c}{l_{1/2}} = 0,78 \text{ ГГц}
+	2 \Delta F = \frac{0.26c}{l_{1/2}} = (15,6 \pm 5) \cdot 10^8 \text{ Гц}
 \end{equation*}
+И число одновременно генерируемых лазером волн:
+\begin{equation*}
+	N \approx 1 + \frac{2\Delta F}{\Delta \nu} \approx 4 \pm 1
+\end{equation*}
+
+\section{Выводы}
+
+
+
 \end{document}
