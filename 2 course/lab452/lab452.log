@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.11)  12 MAY 2023 09:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.11)  12 MAY 2023 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -550,7 +550,7 @@ File: plot4--5--2-2.png Graphic file (type png)
 <use plot4--5--2-2.png>
 Package pdftex.def Info: plot4--5--2-2.png  used on input line 222.
 (pdftex.def)             Requested size: 483.69687pt x 423.23102pt.
- [6] [7 <./plot4--5--2-2.png>] (lab452.aux)
+ [6] [7 <./plot4--5--2-2.png>] [8] (lab452.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -564,9 +564,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  55i,9n,62p,499b,252s stack positions out of 10000i,1000n,20000p,200000b,80000s
  </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1200.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm2074.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lacc1728.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lacc2074.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab452.pdf (8 pages, 497755 bytes).
+Output written on lab452.pdf (9 pages, 500095 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
+ 354 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

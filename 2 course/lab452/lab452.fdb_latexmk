@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1683872354 "/Users/kekoveca/Documents/MIPT/physics/2 course/lab452/lab452.tex" "lab452.pdf" "lab452" 1683872355
+["pdflatex"] 1683875652 "/Users/kekoveca/Documents/MIPT/physics/2 course/lab452/lab452.tex" "lab452.pdf" "lab452" 1683875653
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1663682141 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1663682086 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1663682086 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -54,7 +54,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty" 1665481828 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty" 1665481828 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def" 1665481828 30426 b4bd1ea7df6c51902df8edf551809fb7 ""
-  "/Users/kekoveca/Documents/MIPT/physics/2 course/lab452/lab452.tex" 1683872354 19521 041f771f77542dffc8fdfe510d2296b0 ""
+  "/Users/kekoveca/Documents/MIPT/physics/2 course/lab452/lab452.tex" 1683875651 19925 27038222822cd737997f71505d33fac6 ""
   "/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1678428734 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1663711381 14064 64b50f830fedc670976103c610d6fc7a ""
   "/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1663711380 29472 6a31b6359e9b9f8f8db6c0869bdf4e2b ""
@@ -92,8 +92,8 @@
   "/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty" 1663682313 42759 e63af52ccddba7489ac0e17d6a3344bd ""
   "/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty" 1678428733 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/t2/mathtext.sty" 1663682269 4781 f94d680a55ff7175d2a79a217fbf68a7 ""
-  "lab452.aux" 1683872355 1585 afdd01b7f124dc0fe6c27aa18806c7a5 "pdflatex"
-  "lab452.tex" 1683872354 19521 041f771f77542dffc8fdfe510d2296b0 ""
+  "lab452.aux" 1683875652 1721 31ae32aaa574b2dee262f962895a416d "pdflatex"
+  "lab452.tex" 1683875651 19925 27038222822cd737997f71505d33fac6 ""
   "plot4--5--2-1.png" 1683870501 121960 6fbdf537cd381712ac8fbaa395810866 ""
   "plot4--5--2-2.png" 1683870501 91052 ba30b41077402b5ff35281c19b11b507 ""
   "plot4--5--2-3.png" 1683870501 120400 05e135011e1cdfa214bc31b8d69a5cab ""
