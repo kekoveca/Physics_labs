@@ -1,15 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.10.11)  27 SEP 2023 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.20)  4 OCT 2023 12:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex"
-(/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+**"c:/Users/kekoveca/Documents/Physics_labs/3 course/lab12/lab12.tex"
+(c:/Users/kekoveca/Documents/Physics_labs/3 course/lab12/lab12.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,28 +20,28 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
-Package: babel 2022/10/04 3.81 The Babel package
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/08/29 v3.93 The Babel package
 \babel@savecnt=\count193
-\U@D=\dimen139
+\U@D=\dimen141
 \l@unhyphenated=\language79
- (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def)
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+(C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -48,7 +49,7 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
-) (/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-russian/russianb.ldf
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 
@@ -57,11 +58,11 @@ Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                A font encoding should be declared before babel.
 (babel)                Default `T2A' encoding will be loaded  on input line 78.
 
-(/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2aenc.def
+(C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
 File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
- (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t2aenc.dfu
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
 File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -264,65 +265,63 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
 ))
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
-)) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex
+)) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ru\babel-russian.tex
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/t2/mathtext.sty
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/t2\mathtext.sty
 Package: mathtext 2018/04/13 v1.1 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 119.
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+\KV@toks@=\toks19
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen140
-\stockheight=\dimen141
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
-) (/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count195
-\float@exts=\toks19
+\float@exts=\toks20
 \float@box=\box51
-\@float@everytoks=\toks20
+\@float@everytoks=\toks21
 \@floatcapt=\box52
-) (/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip49
+\multirow@colwidth=\skip50
 \multirow@cntb=\count196
-\multirow@dima=\skip50
+\multirow@dima=\skip51
 \bigstrutjot=\dimen144
 )
-\@float@every@table=\toks21
- (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip51
+\@float@every@table=\toks22
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+(C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
+\@emptytoks=\toks23
 \ex@=\dimen145
-)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+)) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen146
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count197
@@ -357,24 +356,24 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count270
 \dspbrk@lvl=\count271
-\tag@help=\toks23
+\tag@help=\toks24
 \row@=\count272
 \column@=\count273
 \maxfields@=\count274
-\andhelp@=\toks24
+\andhelp@=\toks25
 \eqnshift@=\dimen148
 \alignsep@=\dimen149
 \tagshift@=\dimen150
 \tagwidth@=\dimen151
 \totwidth@=\dimen152
 \lineht@=\dimen153
-\@envbody=\toks25
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks26
+\@envbody=\toks26
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/floatflt/floatflt.sty
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/floatflt\floatflt.sty
 Package: floatflt 1997/07/16 v. 1.31
 \c@OptionTest=\count275
 \figbox=\box55
@@ -394,17 +393,17 @@ Package: floatflt 1997/07/16 v. 1.31
 \tabbredd=\dimen159
 \floatfltwidth=\dimen160
 \fltitemwidth=\dimen161
-\outputpretest=\toks27
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+\outputpretest=\toks28
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 112.
- (/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)) (/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+)) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count282
@@ -418,9 +417,9 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen167
 \Gm@layouthoffset=\dimen168
 \Gm@layoutvoffset=\dimen169
-\Gm@dimlist=\toks28
- (/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\Gm@dimlist=\toks29
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box58
 ) (lab12.aux)
@@ -443,23 +442,23 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Info: Redefining \th on input line 24.
- (/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count286
 \scratchdimen=\dimen170
 \scratchbox=\box59
 \nofMPsegments=\count287
 \nofMParguments=\count288
-\everyMPshowfont=\toks29
+\everyMPshowfont=\toks30
 \MPscratchCnt=\count289
 \MPscratchDim=\dimen171
 \MPnumerator=\count290
 \makeMPintoPDFobject=\count291
-\everyMPtoPDFconversion=\toks30
-) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\everyMPtoPDFconversion=\toks31
+) (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -498,281 +497,80 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 [1
 
-{/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 55.
- (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+{C:/Users/kekoveca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 49.
+ (C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 55.
+(Font)              using `OML/cmr/m/it' instead on input line 49.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 55.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 55.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 55.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 55.
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/omscmr.fd
-File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 49.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 49.
+(C:\Users\kekoveca\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 55.
+(Font)              using `OMS/cmr/m/n' instead on input line 49.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+<diagr.jpg, id=11, 690.58pt x 348.30125pt>
+File: diagr.jpg Graphic file (type jpg)
+<use diagr.jpg>
+Package pdftex.def Info: diagr.jpg  used on input line 59.
+(pdftex.def)             Requested size: 241.84843pt x 121.97635pt.
+[1 <./diagr.jpg>]
+<set.jpg, id=24, 901.3675pt x 327.2225pt>
+File: set.jpg Graphic file (type jpg)
+<use set.jpg>
+Package pdftex.def Info: set.jpg  used on input line 106.
+(pdftex.def)             Requested size: 483.69687pt x 175.59904pt.
+ [2]
+<izmerit.jpg, id=28, 2042.63126pt x 893.3375pt>
+File: izmerit.jpg Graphic file (type jpg)
+<use izmerit.jpg>
+Package pdftex.def Info: izmerit.jpg  used on input line 114.
+(pdftex.def)             Requested size: 483.69687pt x 211.54282pt.
+ [3 <./set.jpg> <./izmerit.jpg>]
+<plot.png, id=32, 867.24pt x 722.7pt>
+File: plot.png Graphic file (type png)
+<use plot.png>
+Package pdftex.def Info: plot.png  used on input line 135.
+(pdftex.def)             Requested size: 483.69687pt x 403.0882pt.
+ [4 <./plot.png>] [5] (lab12.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
 
-LaTeX Warning: File `VI.jpg' not found on input line 67.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:67: Package pdftex.def Error: File `VI.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.67 ...cludegraphics[width=0.5\textwidth]{VI.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 67.
-(/Users/kekoveca/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-
-LaTeX Warning: Reference `fig:IV' on page 1 undefined on input line 74.
-
-
-LaTeX Warning: Reference `eq:energy' on page 1 undefined on input line 77.
-
-
-LaTeX Warning: Reference `eq:Einstein' on page 1 undefined on input line 85.
-
-[1]
-
-LaTeX Warning: Reference `fig:set' on page 2 undefined on input line 96.
-
-
-LaTeX Warning: File `set.jpg' not found on input line 100.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:100: Package pdftex.def Error: File `set.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 ...cludegraphics[width=1\textwidth]{set.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[2] [3]
-
-LaTeX Warning: File `plot1.png' not found on input line 156.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:156: Package pdftex.def Error: File `plot1.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.156 ...udegraphics[width=1\textwidth]{plot1.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[4] [5]
-
-LaTeX Warning: File `plot_zero1.png' not found on input line 205.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:205: Package pdftex.def Error: File `plot_zero1.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.205 ...aphics[width=1\textwidth]{plot_zero1.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[6]
-
-LaTeX Warning: File `plot_zero2.png' not found on input line 211.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:211: Package pdftex.def Error: File `plot_zero2.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.211 ...aphics[width=1\textwidth]{plot_zero2.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[7]
-
-LaTeX Warning: File `plot_zero3.png' not found on input line 217.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:217: Package pdftex.def Error: File `plot_zero3.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.217 ...aphics[width=1\textwidth]{plot_zero3.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[8]
-
-LaTeX Warning: File `plot_zero4.png' not found on input line 223.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:223: Package pdftex.def Error: File `plot_zero4.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.223 ...aphics[width=1\textwidth]{plot_zero4.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[9]
-
-LaTeX Warning: File `plot_zero5.png' not found on input line 229.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:229: Package pdftex.def Error: File `plot_zero5.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.229 ...aphics[width=1\textwidth]{plot_zero5.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[10]
-
-LaTeX Warning: File `plot_zero6.png' not found on input line 235.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:235: Package pdftex.def Error: File `plot_zero6.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.235 ...aphics[width=1\textwidth]{plot_zero6.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[11]
-
-LaTeX Warning: File `plot_zero7.png' not found on input line 241.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:241: Package pdftex.def Error: File `plot_zero7.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.241 ...aphics[width=1\textwidth]{plot_zero7.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[12]
-
-LaTeX Warning: File `plot_zero8.png' not found on input line 247.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:247: Package pdftex.def Error: File `plot_zero8.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.247 ...aphics[width=1\textwidth]{plot_zero8.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[13]
-
-LaTeX Warning: File `plot_zero9.png' not found on input line 253.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:253: Package pdftex.def Error: File `plot_zero9.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.253 ...aphics[width=1\textwidth]{plot_zero9.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[14]
-
-LaTeX Warning: File `plot_zero10.png' not found on input line 259.
-
-
-/Users/kekoveca/Documents/MIPT/physics/3 course/lab12/lab12.tex:259: Package pdftex.def Error: File `plot_zero10.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.259 ...phics[width=1\textwidth]{plot_zero10.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[15] [16] (lab12.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 5181 strings out of 475386
- 85217 string characters out of 2774047
- 468807 words of memory out of 3000000
- 26461 multiletter control sequences out of 15000+600000
- 482153 words of font info for 53 fonts, out of 8000000 for 9000
+ 4807 strings out of 475247
+ 75373 string characters out of 5756376
+ 1928801 words of memory out of 5000000
+ 26259 multiletter control sequences out of 15000+600000
+ 572259 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,840b,321s stack positions out of 10000i,1000n,20000p,200000b,80000s
- </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1200.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm2074.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lacc1728.pk> </Users/kekoveca/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lacc2074.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on lab12.pdf (17 pages, 154492 bytes).
+ 57i,8n,65p,2107b,251s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk> <C:\Users\kekoveca\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc2074.pk><C:/Users/kekoveca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/kekoveca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/kekoveca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kekoveca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/kekoveca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kekoveca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on lab12.pdf (6 pages, 396826 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
+ 278 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
